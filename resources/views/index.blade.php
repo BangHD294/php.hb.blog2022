@@ -56,7 +56,7 @@
     <div class="row d-flex justify-content-center">
       <div class="menu-content pb-70 col-lg-8">
         <div class="title text-center">
-          <h1 class="mb-10">Latest Posts from all categories</h1>
+          <h1 class="mb-10">Bài viết mới nhất từ tất cả chủ đề</h1>
           <p>Find the Latest Post from all category.</p>
         </div>
       </div>
