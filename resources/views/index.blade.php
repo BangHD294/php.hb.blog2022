@@ -16,7 +16,7 @@
         class="banner-content d-flex align-items-center col-lg-12 col-md-12"
       >
         <h1>
-          Welcome to myiotlab<br />
+          Welcome to HBBlog<br />
           <p>
             L<span style="font-size: 0.7em">earn</span> &nbspC<span
               style="font-size: 0.7em"
@@ -39,7 +39,7 @@
           class="col-lg-6 flex-row d-flex meta-right no-padding justify-content-end"
         >
           <div class="user-meta">
-            <h4 class="text-white">Subhadip Ghorui</h4>
+            <h4 class="text-white">Hoang Bang</h4>
             <p><script>let t = new Date;document.write(t.toDateString());</script></p>
           </div>
           <img class="img-fluid user-img" src="img/user.jpg" alt="" />
@@ -138,7 +138,7 @@
                 <br>
                 <p>I am <span class="c1">Full stack Web Developer</span> specialized <span class="c1">LARAVEL</span> - PHP. Currently Studing GEOSPATIAL SCIENCE and learning <span class="c1">GIS Web Applications Development</span>. </p>
                 <br>
-                <h4>Email: <span style="font-size: medium; font-weight: lighter;">subhadipghorui105@gmail.com</span></h4>
+                <h4>Email: <span style="font-size: medium; font-weight: lighter;">hiddendragon294@gmail.com</span></h4>
                 <br>
                 <div class="col-md-12 d-flex justify-content-center py-3 mt-2">
                     <a href="https://subhadipghorui.github.io" class="genric-btn info circle arrow mr-md-auto" target="_blank">Know More<span class="lnr lnr-arrow-right"></span></a>
@@ -155,7 +155,7 @@
                             </div>
                         </div>
                         <div class="meta-text mt-30 text-center">
-                            <h4>Subhadip Ghorui</h4>
+                            <h4>Hoang Bang</h4>
                             <p>Creator</p>
                         </div>
                     </div>
