@@ -48,7 +48,6 @@ class CategoryController extends Controller
         ]);
         // Image
         $image = $request->image;
-        dd($image);
         $imageName = Str::slug($request->name, '-') . uniqid() . '.' . $image->getClientOriginalExtension();
 
         if (!Storage::disk('public')->exists('category')) {

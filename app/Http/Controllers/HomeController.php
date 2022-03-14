@@ -5,6 +5,7 @@ namespace App\Http\Controllers;
 use App\Category;
 use App\Post;
 use App\Tag;
+use App\User;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Session;
@@ -20,7 +21,8 @@ class HomeController extends Controller
     public function index()
     {
         $posts = Post::latest()->take(6)->published()->get();
-        return view('index', compact('posts'));
+        $users = User::all();
+        return view('index', compact('posts', 'users'));
     }
     public function posts()
     {

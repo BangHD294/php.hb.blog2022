@@ -148,7 +148,9 @@
                 <div class="row">
                     <div class="single-team">
                         <div class="thumb">
-                            <img class="img-fluid w-75 mx-auto" src="{{asset('frontend/img/admin.png')}}" alt="admin">
+                            @foreach($users as $item)
+                            <img class="img-fluid w-75 mx-auto" src="{{asset('storage/user/'.$item->image)}}" alt="admin">
+                            @endforeach
                             <div class="align-items-center justify-content-center d-flex">
                                 <a href="#"><i class="fab fa-facebook-f" aria-hidden="true"></i></a>
                                 <a href="#"><i class="fab fa-youtube" aria-hidden="true"></i></a>
