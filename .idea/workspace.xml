@@ -3,18 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6c6be7ca-53b2-4f64-8afc-ff83088c361e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/categories.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/categories.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/categoryposts.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/categoryposts.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/elements.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/elements.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/posts.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/posts.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/search.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/search.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/single.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/single.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/backend/bower.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/backend/bower.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/backend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/backend/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/index.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/frontend/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/frontend/app.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/frontend/partials/navbar.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/frontend/partials/navbar.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Admin/CategoryController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Admin/CategoryController.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -218,7 +207,8 @@
       <workItem from="1647012262641" duration="673000" />
       <workItem from="1647077148354" duration="173000" />
       <workItem from="1647077398303" duration="805000" />
-      <workItem from="1647179583809" duration="5486000" />
+      <workItem from="1647179583809" duration="5555000" />
+      <workItem from="1647255374722" duration="1528000" />
     </task>
     <servers />
   </component>
