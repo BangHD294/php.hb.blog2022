@@ -149,7 +149,12 @@
                     <div class="single-team">
                         <div class="thumb">
                             @foreach($users as $item)
+                                @if($item->role_id == 1)
+<!--                                --><?php
+//                                    echo $item->image;
+//                                ?>
                             <img class="img-fluid w-75 mx-auto" src="{{asset('storage/user/'.$item->image)}}" alt="admin">
+                                @endif
                             @endforeach
                             <div class="align-items-center justify-content-center d-flex">
                                 <a href="#"><i class="fab fa-facebook-f" aria-hidden="true"></i></a>

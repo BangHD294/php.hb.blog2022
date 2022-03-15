@@ -14,7 +14,7 @@
                     <li><a href="/posts">Bài viết</a></li>
                         <li><a href="/categories">Thể loại</a></li>
                     <li><a href="/#about">Về tôi</a></li>
-                    @if (Route::has('login'))
+                    @if (Route::has('đăng nhập'))
                     @auth
                         <!-- Dropdown -->
                     <li class="dropdown">
