@@ -141,7 +141,7 @@
                 <h4>Email: <span style="font-size: medium; font-weight: lighter;">hiddendragon294@gmail.com</span></h4>
                 <br>
                 <div class="col-md-12 d-flex justify-content-center py-3 mt-2">
-                    <a href="https://subhadipghorui.github.io" class="genric-btn info circle arrow mr-md-auto" target="_blank">Know More<span class="lnr lnr-arrow-right"></span></a>
+                    <a href="" class="genric-btn info circle arrow mr-md-auto" target="_blank">Know More<span class="lnr lnr-arrow-right"></span></a>
                 </div>
             </div>
             <div class="col-lg-6 team-right d-flex justify-content-center">
